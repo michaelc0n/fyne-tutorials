@@ -28,7 +28,7 @@ func main() {
 			app.Quit()
 		}
 	})
-	// set content eith checkBox
+	// set content checkBox
 	win.SetContent(checkBox)
 	win.ShowAndRun() // run app
 }
